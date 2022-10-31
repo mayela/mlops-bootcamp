@@ -1,4 +1,4 @@
-Country,Region,Happiness Score,Happiness Rank,GDP per Capita,Health (Life Expectancy),Freedom to make life choices,Perceptions of corruption
+Country,Region,Happiness Score,Happiness Rank,GDP per Capita,Healthy life expectancy,Freedom to make life choices,Perception of corruption
 Afghanistan,Southern Asia,3.632,145,0.332,0.255,0.085,0.036
 Albania,Central and Eastern Europe,4.586,112,0.916,0.79,0.419,0.032
 Algeria,Middle East and Northern Africa,5.295,84,0.979,0.687,0.077,0.135
